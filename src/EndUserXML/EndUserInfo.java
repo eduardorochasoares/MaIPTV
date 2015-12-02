@@ -14,7 +14,9 @@ import java.util.List;
 public class EndUserInfo {
     private PermissionLevel permissionLevel;
     private ControlledUserInfo controlledUserInfo;
-
+    private GenericUserInfo genericUserInfo;
+    
+   
     /**
      * @return the permissionLevel
      */
@@ -41,6 +43,20 @@ public class EndUserInfo {
      */
     public void setControlledUserInfo(ControlledUserInfo controlledUserInfo) {
         this.controlledUserInfo = controlledUserInfo;
+    }
+
+    /**
+     * @return the genericUserInfo
+     */
+    public GenericUserInfo getGenericUserInfo() {
+        return genericUserInfo;
+    }
+
+    /**
+     * @param genericUserInfo the genericUserInfo to set
+     */
+    public void setGenericUserInfo(GenericUserInfo genericUserInfo) {
+        this.genericUserInfo = genericUserInfo;
     }
 
     

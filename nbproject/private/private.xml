@@ -3,40 +3,46 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/TransportCapabilitiesList.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/ErrorMessageXML/Error.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/MeasurementRequestXML/ControlDevice.java</file>
             <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/EventTrigger.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/Compression.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/PCInformation.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/OperationalManagementCapabilities.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/ServiceStartTrigger.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/CryptographicProtocol.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/DeliveryMode.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/ErrorMessageXML/ReportRequestErrorInfo.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/MeasurementRequestXML/MeasurementRequest.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/ErrorMessageXML/ReportRequestError.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/ErrorMessageXML/ConfigRequestErrorCodeValue.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/MeasurementRequestXML/Obscuration.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/ErrorMessageXML/ConfigPackageErrorInfo.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/MeasurementRequestXML/NavMethod.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/MeasurementRequestXML/MeasurementSchedule.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/ErrorMessageXML/HighLevelError.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/ErrorMessageXML/ErrorCode.java</file>
             <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/sistema/Main.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/EndUserInfo/ControlledUserInfoTypeString.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/MeasurementRequestXML/AllContentClassExceptList.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/ErrorMessageXML/ReportError.java</file>
             <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/PermissionMode.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/ConfigurationPackageDelivery.java</file>
             <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/EndUserDevice.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/VolumeDirection.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/STBInformation.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/OperationalManagement.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/ErrorMessageXML/ReportRequestErrorCode.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/ErrorMessageXML/ConfigPackageError.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/MeasurementRequestXML/DayOfTheWeek.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/MeasurementRequestXML/ChannelQualifier.java</file>
             <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/ControlDevice.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/ImageSize.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/ConfigurationMode.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/MeasurementTriggerMethod.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/ReportDeliveryModes.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/ErrorMessageXML/ConfigRequestErrorCode.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/ErrorMessageXML/ReportErrorCode.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/MeasurementRequestXML/AllChannelsExceptList.java</file>
             <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/EndUserElementsXML.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/TVInformation.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/MobileDeviceInformation.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/EndUserInfo/EndUserInfoXML.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/AMFCapabilityProfile.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/TransportProtocolMode.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/EndUserInfo/PermissionLevel.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/IPTVTVInformation.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/EndUserInfo/EndUserInfo.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/SecurityCapabilities.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/PermissionOperationModes.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/AudioAmplifierInformation.java</file>
-            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/tdElementsXML/TimeSampleTrigger.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/MeasurementRequestXML/MeasurementPeriod.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/ErrorMessageXML/ReportErrorInfo.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/ErrorMessageXML/ConfigRequestError.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/ErrorMessageXML/ReportRequestErrorCodeValue.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/ErrorMessageXML/ConfigRequestErrorInfo.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/MeasurementRequestXML/LinearTVQualifier.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/MeasurementRequestXML/ViewMode.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/ErrorMessageXML/ReportErrorCodeValue.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/MeasurementRequestXML/ChannelList.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/ErrorMessageXML/HighLevelErrorCode.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/ErrorMessageXML/ErrorCodeValue.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/ErrorMessageXML/ErrorEvent.java</file>
+            <file>file:/C:/Users/Principal/Documents/NetBeansProjects/MaIPTV/src/MeasurementRequestXML/ContentClassDomain.java</file>
         </group>
     </open-files>
 </project-private>

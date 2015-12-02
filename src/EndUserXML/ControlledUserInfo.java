@@ -5,6 +5,7 @@
  */
 package EndUserXML;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -15,9 +16,12 @@ public class ControlledUserInfo {
     private List<ControlledUserInfoTypeString> controlledUserInfoTypeString;
     private List<ControlledUserInfoTypeDate> controlledUserInfoTypeDate;
     private List<ControlledUserInfoTypeAddress> controlledUserInfoTypeAdress;
-    /**
-     * @return the controlledUserInfoTypeString
-     */
+    
+    public ControlledUserInfo(){
+        controlledUserInfoTypeAdress = new ArrayList<>();
+        controlledUserInfoTypeDate = new ArrayList<>();
+        controlledUserInfoTypeString = new ArrayList<>();
+    }
     public List<ControlledUserInfoTypeString> getControlledUserInfoTypeString() {
         return controlledUserInfoTypeString;
     }
